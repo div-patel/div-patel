@@ -76,8 +76,11 @@ Team & Operational Leadership   ████████████████
 ## Certifications
 
 - 🟦 **Okta Certified Professional** — Workforce Identity Cloud
+- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7cb18da5-ed7d-4704-91d4-5217dd732fb1" />
 - 🟦 **Okta Certified Administrator** — Workforce Identity Cloud
+- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f69efa0e-cf9f-46d9-9a4f-0dcfbb839311" />
 - 🔵 **CCNA Routing & Switching** — Cisco
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/81344b63-44f4-4380-a6b9-4451c4826f55" />
 
 ---
 
